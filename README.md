@@ -1,3 +1,5 @@
+
+![ZIBA logo](./logo_long_github.png)
 This is the public Github repository of **ZIBA Science Resources**. Here you will find useful resources and relevant examples of the studies and analyses we conduct.
 
 <!--
